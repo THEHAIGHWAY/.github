@@ -23,7 +23,7 @@ Our paid ressources include:
 - Self-paced and cohort-based bootcamps and courses
 - On-demand courses for comapnies
 
-We value well organized ressources. We assume that Juniors don't know what to learn next and want guidance. We assume that Seniors sometimes know what to learn next and want to find what the are looking for with minimum effort. 
+We value well organized ressources. We assume that Juniors don't know what to learn next and want guidance. We assume that Seniors sometimes know what to learn next and want to find what they are looking for with minimum effort. 
 
 We classify our ressources in three levels:
 - Main : general skills
@@ -31,13 +31,13 @@ We classify our ressources in three levels:
 - Projects : end-to-end cases
 
 We classify skills for a given role in three concentric categories:
-- Basics : basic skills but unsufficient to be competitive on the job market
+- Basics : basic skills but insufficient to be competitive on the job market
 - Junior : core skills relevant for most companies
 - Senior : advanced knowledge and skills relevant for most companies
 
 We distinguish three levels of mastering of tools and technologies:
-- Beginner : intial knowledge
+- Beginner : initial knowledge
 - Intermediate : intermediate knowledge
-- Advanced : Advanced knowledge
+- Advanced : advanced knowledge
 
-🔔 **That's all for now. Some ressources are not yet publicly available. More information is comming soon, so make sure to stay tuned. Enjoy !!!**
+🔔 **That's all for now. Some ressources are not yet publicly available. More information is coming soon, so make sure to stay tuned. Enjoy !!!**
