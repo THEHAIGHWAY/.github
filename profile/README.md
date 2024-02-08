@@ -13,7 +13,7 @@
 
 Welcome !!! Here is a quick presentation of **THE HAIGHWAY**.
 
-**THE HAIGHWAY** is a training company in AI, Data and Cloud. Our mission is to help you upskill as you were on the job. We offer free and paid learning ressources in **English** & **French**.
+**THE HAIGHWAY** is a training company in **AI, Data and Cloud**. Our mission is to help you upskill as you were on the job. We offer free and paid learning ressources in **English** & **French**.
 
 Our free ressources include: 
 - GitHub repositories, articles and newsletters
